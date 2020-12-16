@@ -2,7 +2,7 @@
 
 ## Surrogate Optimization
 
-This notebook is the hands-on part of learning surrogate optimization approach. A walk-through of a case study is provided.
+This notebook is the hands-on part of learning surrogate optimization approach. A walk-through of a case study is given to show how surrogate optimization is employed in practice.
 
 ## Companion blog
 
