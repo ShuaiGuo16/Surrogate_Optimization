@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShuaiGuo16/Univariate_probability_theory/blob/master/Univariate_Probability_Theory.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ShuaiGuo16/Surrogate_Optimization/blob/master/Surrogate_Optimization.ipynb)
 
 ## Surrogate Optimization
 
